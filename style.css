@@ -1,0 +1,33 @@
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #a1f9ff;
+}
+
+body {
+  font-family: "Dancing Script", cursive;
+}
+nav {
+  font-size: 30px;
+}
+.navbar-nav {
+  padding-left: 900px;
+}
+.nav-item {
+  padding-left: 10px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.form-label {
+  font-size: 20px;
+}
+
+.footer {
+  background-color: black;
+}
+
+section {
+  padding-top: 7rem;
+}
